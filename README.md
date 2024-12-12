@@ -14,4 +14,4 @@ A place to see and create all your secret messages!
   3. Click on the button to see the secret
   4. Read the secret, then make your own secret reply!
 
-SecretSend is powered by Military grade encryption, rest assured, you're secret will remain safe (unless you share the password)!
+SecretSend is powered by Military grade encryption (AES-256), rest assured, you're secret will remain safe (unless you share the password)!
