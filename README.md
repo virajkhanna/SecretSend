@@ -15,3 +15,5 @@ A place to see and create all your secret messages!
   4. Read the secret, then make your own secret reply!
 
 SecretSend is powered by Military grade encryption (AES-256), rest assured, your secret will remain safe (unless you share the password)!
+
+AI Usage: I used GitHub Copilot assitively in Visual Studio Code for suggestions and slight bug fixes, and DALL-E for an AI-Generated background image, but I am the code's original author.
